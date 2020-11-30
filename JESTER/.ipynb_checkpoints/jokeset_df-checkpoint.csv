@@ -1,0 +1,241 @@
+,joke id,joke,word count,embedding
+0,1,"A man visits the doctor. The doctor says ""I have bad news for you.You have cancer and Alzheimer's disease"".  The man replies ""Well,thank God I don't have cancer!""",28,"[ 0.2698162  -0.62762123  0.29955927 ... -0.61068237  0.8849252
+ -0.6018031 ]"
+1,2,"This couple had an excellent relationship going until one day he came home from work to find his girlfriend packing. He asked her why she was leaving him and she told him that she had heard awful things about him.   ""What could they possibly have said to make you move out?""   ""They told me that you were a pedophile.""   He replied, ""That's an awfully big word for a ten year old.""",71,"[ 0.5122608  -0.8958999  -0.54218143 ... -0.87078714  0.4044038
+  0.37782046]"
+2,3,Q. What's 200 feet long and has 4 teeth?   A. The front row at a Willie Nelson Concert.,18,"[ 0.08929367 -0.8477798   0.6520843  ...  0.03860373 -0.6069192
+ -1.3001316 ]"
+3,4,Q. What's the difference between a man and a toilet?   A. A toilet doesn't follow you around after you use it.,21,"[ 0.2803367  -0.810892    1.2814697  ... -0.41774237 -1.2462118
+  0.12683816]"
+4,5,"Q.	What's O. J. Simpson's Internet address?  A.	Slash, slash, backslash, slash, slash, escape.",14,"[ 0.20243476 -1.0007236  -0.02575929 ...  0.52183527  0.34635642
+  0.06707703]"
+6,7,How many feminists does it take to screw in a light bulb? That's not funny.,15,"[ 0.97699565 -0.41929433 -0.76240104 ... -0.29001367  0.61085343
+  0.2328209 ]"
+7,8,Q. Did you hear about the dyslexic devil worshiper?   A. He sold his soul to Santa.,16,"[ 1.31262    -0.6377243  -0.34002444 ...  0.3172096   0.22108296
+  0.7307538 ]"
+8,9,"A country guy goes into a city bar that has a dress code, and the maitre d'  demands he wear a tie. Discouraged, the guy goes to his car to sulk when  inspiration strikes: He's got jumper cables in the trunk! So he wraps them around his neck, sort of like a string tie (a bulky string tie to be sure) and returns to the bar. The maitre d' is reluctant, but says to the guy, ""Okay, you're a pretty resourceful fellow, you can come in... but just don't start anything""!",91,"[ 1.0933986  -0.50535023  0.2439484  ... -0.44242483  0.49885464
+ -0.11942385]"
+9,10,"Two cannibals are eating a clown, one turns to other and says:  ""Does this taste funny to you?",18,"[ 0.43966308 -0.51495624 -0.2028589  ... -0.38649964  0.36016372
+ -0.05777308]"
+10,11,"Q. What do a hurricane, a tornado, and a redneck divorce all have in common?  A. Someone's going to lose their trailer...",22,"[ 0.06428344  0.9330767  -0.03278307 ... -0.1846683   0.5536409
+ -1.5371469 ]"
+11,12,"A guy stood over his tee shot for what seemed an eternity, looking up, looking down, measuring the distance, figuring the wind direction and speed. Driving his partner nuts.  Finally his exasperated partner says, ""What the hell is taking so long? Hit the goddamn ball!"" The guy answers, ""My wife is up there watching me from the clubhouse. I want to make this a perfect shot."" ""Well, hell, man, you don't stand a snowball's chance in hell of hitting her from here!""",82,"[ 0.23207691  0.10720959 -0.41406873 ... -1.383348    0.53662384
+ -0.89271545]"
+12,13,"They asked the Japanese visitor if they have elections in his country.   ""Every Morning"" he answers.",16,"[-0.11954319  0.6882862   0.90193725 ... -0.27621457 -0.3354208
+  0.6482406 ]"
+13,14,"The father was very anxious to marry off his only daughter so he wanted  to impress her date. ""Do  you like to screw,"" he says. ""Huh"" replied the  surprised first date. ""My daughter she loves to screw and she's good at it,  you and her  should go screw,"" carefully explained the father. Now very  interested the boy replied, ""Yes, sir."" Minutes later the girl came down  the stairs, kissed her father goodbye and the couple left. After only a  few minutes she reappeared, furious, dress torn, hair a mess and screamed ""Dammit, Daddy, it's the TWIST, get it straight!""",99,"[ 0.58509964 -0.17657621  0.19490172 ... -0.67947596  0.8041306
+  0.33919707]"
+14,15,Q:  What did the blind person say when given some matzah?  A:  Who the hell wrote this?,17,"[-0.39247036 -1.2548      0.6472794  ...  0.59408784  0.05409768
+ -0.53736764]"
+15,16,Q. What is orange and sounds like a parrot?    A. A carrot.,12,"[ 0.81196666 -0.0073295  -0.19497943 ...  0.2925583  -0.20086521
+ -0.49481425]"
+16,17,How many men does it take to screw in a light bulb?   One...men will screw anything.,16,"[ 1.2135042  -0.4951125   0.09759473 ... -1.2803994   0.25149745
+  0.18701573]"
+17,18,"A dog walks into Western Union and asks the clerk to send a telegram. He fills out a form on which he writes down the telegram he wishes to send: ""Bow wow wow, Bow wow wow.""  The clerk says, ""You can add another 'Bow wow' for the same price.""  The dog responded, ""Now wouldn't that sound a little silly?""",59,"[ 0.01492004 -1.0279188   0.46543953 ...  0.4932806   0.20857567
+ -0.11018817]"
+18,19,"Q: If a person who speaks three languages is called ""tri-lingual,"" and a person who speaks two languages is called ""bi-lingual,"" what do call a person who only speaks one language?  A: American!",33,"[-0.09787777 -0.493873    0.08016377 ...  0.8590444   0.01605723
+ -0.6970919 ]"
+19,20,What's the difference between a MacIntosh and an Etch-A-Sketch?   You don't have to shake the Mac to clear the screen.,20,"[-0.07936075 -0.4556776   0.7720285  ...  0.01994613  0.57940036
+  0.22771963]"
+20,21,"What's the difference between a used tire and 365 used condoms?  One's a Goodyear, the other's a great year.",19,[0.11848501 0.27632087 0.7251185  ... 0.09472401 0.40497312 0.183286  ]
+21,22,"A duck walks into a pharmacy and asks for a condom. The pharmacist says ""Would you like me to stick that on your bill?"" The duck says:  ""What kind of duck do you think I am!""",36,"[-0.35001576 -0.3529642   0.5309932  ...  0.14965625  0.68467253
+  0.25018924]"
+22,23,Q: What is the Australian word for a boomerang that won't    come back?   A: A stick,16,"[ 0.5901651  -0.16814432  0.1664847  ... -0.30095622  0.12230453
+ -1.5898583 ]"
+23,24,What do you get when you run over a parakeet with a lawnmower?  Shredded tweet.,15,"[-0.05099993 -0.13515365  0.304219   ... -0.06506515  0.8700009
+  0.40916944]"
+24,25,"Two kindergarten girls were talking outside: one said, ""You won't believe what I saw on the patio yesterday--a condom!""  The second girl asked, ""What's a patio?""",26,"[-0.79346544  0.9098599  -0.3380788  ... -0.2933001   0.3492465
+  1.0023749 ]"
+25,26,"A guy walks into a bar and sits down next to an extremely gorgeous  woman.  The first thing he notices about her though, are her pants.   They were skin-tight, high-waisted and had no obvious mechanism  (zipper, buttons or velcro) for opening them.  After several minutes of puzzling over how she got the pants up over  her hips, he finally worked up the nerve to ask her.  ""Excuse me miss,  but how do you get into your pants?""  ""Well,"" she replied, ""you can start by buying me a drink.""",88,"[ 0.7381717  -0.16471973  0.86969644 ... -0.40557694  0.12630327
+ -0.55771625]"
+26,27,"Clinton returns from a vacation in Arkansas and walks down  the steps of Air Force One with two pigs under his arms.  At the bottom of the steps, he says  to the honor guardsman, ""These are genuine Arkansas Razor-Back Hogs.  I got this one for Chelsea and this one for Hillary.""    The guardsman replies, ""Nice trade, Sir.""",57,"[ 0.43917128 -0.20899312  0.74661416 ... -0.06537834  0.11134364
+  0.20869508]"
+29,30,Q: What's the difference between a Lawyer and a Plumber?  A: A Plumber works to unclog the system.,18,"[-0.44737056 -0.21389042  0.85906386 ...  0.174665    0.02450308
+ -0.3027205 ]"
+30,31,"President Clinton looks up from his desk in the Oval Office to see  one of his aides nervously approach him.   ""What is it?"" exclaims the President.  ""It's this Abortion Bill Mr. President, what do you want to do  about it?"" the aide replies.  ""Just go ahead and pay it."" responds the President.",52,"[ 0.5909507  -0.8833723   0.11619081 ... -0.31938034 -0.12017651
+  0.17909265]"
+32,33,"What do you call an American in the finals of the world cup?  ""Hey Beer Man!""",16,"[ 0.5383145  -0.48222065  0.3375234  ... -0.12201938 -0.7661491
+  0.02007666]"
+33,34,"Out in the backwoods of some midwestern state, little Johnny arrives at school an hour late.  Teacher: ""Why are you so late, John?"" Johny : ""My big brother got shot in the ass."" (the teacher corrects his speech) Teacher: ""Rectum."" Johnny : ""Wrecked him!? Hell, It damn near killed him!""",50,"[ 0.49742034 -0.10807816  0.39080727 ... -0.02385915 -0.04911288
+ -0.09581796]"
+34,35,"An explorer in the deepest Amazon suddenly finds himself surrounded by a bloodthirsty group of natives. Upon surveying the situation, he says quietly to himself, ""Oh God, I'm screwed.""   The sky darkens and a voice booms out, ""No, you are NOT screwed. Pick up that stone at your feet and bash in the head of the chief standing in front of you.""   So with the stone he bashes the life out of the chief. Standing above the lifeless body, breathing heavily looking at 100 angry natives...   The voice booms out again, ""Okay ..... NOW you're screwed.""",96,"[ 0.6903751  -0.4762124   0.06998175 ... -0.76573575  0.14562787
+ -0.08878446]"
+35,36,"A guy walks into a bar, orders a beer and says to the bartender, ""Hey, I got this great Polish Joke...""   The barkeep glares at him and says in a warning tone of voice: ""Before you go telling that joke you better know that I'm Polish, both bouncers are Polish and so are most of my customers""  ""Okay"" says the customer,""I'll tell it very slowly.""",65,"[ 0.91474783 -1.1943318   0.47007582 ... -0.5849445   0.24224652
+  0.8488667 ]"
+36,37,"A Jewish young man was seeing a psychiatrist for an eating and sleeping disorder.   ""I am so obsessed with my mother... As soon as I go to sleep, I start dreaming, and everyone in my dream turns into my mother. I wake up in such a state, all I can do is go downstairs and eat a piece of toast.""  The psychiatrist replies:  ""What, just one piece of toast, for a big boy like you?""",75,"[ 0.17764272 -0.9568957   0.42569035 ... -0.5654188   1.3187519
+  0.68691343]"
+37,38,"""May I take your order?"" the waiter asked.   ""Yes, how do you prepare your chickens?""   ""Nothing special sir,"" he replied. ""We just tell them straight out that they're going to die.""",31,"[ 0.97065926 -0.7961104   0.81725496 ... -0.31133288  0.75278264
+ -0.34550023]"
+38,39,What is the difference between men and women:   A woman wants one man to satisfy her every need. A man wants every woman to satisfy his one need.,28,"[ 0.45358434 -0.18768029 -0.26562068 ... -1.2861289   0.06282777
+  0.8357434 ]"
+39,40,"How many Irishmen does it take to change a lightbulb?  Two, one to hold the lightbulb and the other to drink until the room spins.",25,"[ 0.8124529  -0.02843512  0.7268259  ... -0.3797639  -0.69687915
+ -0.8807566 ]"
+40,41,"What does an atheist say during an orgasm? ""Oh Darwin! Oh Darwin!...""",12,"[ 0.38695705 -0.70676523 -0.37669018 ...  0.8636666   0.14755169
+ -0.8183973 ]"
+41,42,"Two men are discussing the age old question: who enjoys sex more, the man or the woman?  A woman walks by and listens in for awhile and then interrupts:  ""Listen you guys. You know when your ear itches and you put in your  little finger and wiggle it around for awhile?  Afterward, which feels better, your finger or your ear?""",60,"[ 0.3557184  -0.489961    0.02008488 ... -0.89346683  0.30361843
+  0.83643144]"
+42,43,"Arnold Swartzeneger and Sylvester Stallone are making a movie about the lives of the great composers.   Stallone says ""I want to be Mozart.""  Swartzeneger says: ""In that case...  I'll be Bach.""",31,"[-0.14462623 -0.04573435 -0.304215   ... -0.24059446  0.26296785
+  1.1267453 ]"
+43,44,"A horse walks into a bar. Bartender says: ""So, why the long face?""",13,"[ 0.52372295 -0.22803918  0.5262201  ...  0.3102699  -0.08884922
+ -0.0753934 ]"
+44,45,"A boy comes home from school and tells his mother that he got a part in the school play.  ""What part?"" the mother asked. ""I play a Jewish husband,"" the boy replied.   ""Go back to school and tell your teacher that you want a speaking role!""",46,"[ 0.55932343 -1.1993752  -0.65727246 ... -0.52457684  1.1524329
+  0.5919612 ]"
+45,46,"A couple has been married for 75 years. For the husband's 95th birthday, his wife decides to surprise him by hiring a prostitute. That day, the doorbell rings. The husband uses his walker to get to the door and opens it.  A 21-year-old in a latex outfit smiles and says, ""Hi, I here to give you super sex!""  The old man says, ""I'll take the soup.""",66,"[ 0.26498738 -0.08253082 -0.14110143 ... -0.6230445   0.9596578
+  0.14365293]"
+47,48,"The graduate with a Science degree asks, ""Why does it work?"" The graduate with an Engineering degree asks, ""How does it work?"" The graduate with an Accounting degree Asks, ""How much will it cost?""  The graduate with a  Liberal Arts degree asks, ""Do you want fries  with  that?""",48,"[ 0.0551759  -0.7628679  -0.28308874 ...  0.33864212  1.1300274
+ -0.06218139]"
+48,49,"Three engineering students were gathered together discussing the possible designers of the human body.   One said, ""It was a mechanical engineer. Just look at all the joints.""   Another said, ""No, it was an electrical engineer.  The nervous systems many thousands of electrical connections.""   The last said, ""Actually it was a civil engineer. Who else would run a toxic waste pipeline through a recreational area?""",64,"[ 0.1682811  -0.11592776 -0.29361308 ... -0.92385656  0.38694984
+ -0.35539362]"
+49,50,"A guy goes into confession and says to the priest, ""Father, I'm 80 years old, widower, with 11 grandchildren. Last night I met two beautiful flight attendants. They took me home and I made love to both of them. Twice.""  The priest said: ""Well, my son, when was the last time you were in confession?""  ""Never Father, I'm Jewish.""  ""So then, why are you telling me?""  ""I'm telling everybody.""",69,"[ 0.90473217 -0.38580725  0.2057467  ... -0.45229515  1.0183406
+  0.52273   ]"
+50,51,Did you hear that Clinton has announced there is a new national bird?   The spread eagle.,16,"[-0.0398365   0.4498333   0.33629608 ...  1.0501148  -0.18732093
+ -0.6548118 ]"
+51,52,Q: What do Monica Lewinsky and Bob Dole have in common? A: They were both upset when Bill finished first.,20,"[ 0.03978482 -0.02942518 -0.21649906 ...  0.12806351 -0.29307374
+ -0.86896914]"
+54,55,"A woman has twins, and gives them up for adoption.  One of them goes to a family in Egypt and is named ""Amal.""  The other goes to a  family in Spain; they name him ""Juan.""  Years later, Juan sends a picture of himself to his mom.  Upon receiving the picture, she tells her husband that she wishes she also had a picture of Amal.   Her husband responds, ""But they are twins-if you've seen Juan, you've seen   Amal.",77,"[-0.14475372  0.0492754  -0.14709765 ... -0.54162556  0.84321684
+  0.5021364 ]"
+56,57,Why are there so many Jones's in the phone book? Because they all have phones.,15,"[-0.64541346 -0.27210975  0.11327928 ...  0.64102745 -0.35778356
+  0.94343394]"
+57,58,"How many teddybears does it take to change a lightbulb?  It takes only one teddybear, but it takes a whole lot of lightbulbs.",23,"[ 0.35509795 -0.50749475 -0.01956917 ... -0.48579025  0.25922093
+ -0.60084283]"
+58,59,"The Chukcha (Russian Eskimo) phones up the Russian Parliament Building.   A guard answers.  Chukcha:  ""What is required to become Parliament member?"" Guard:  ""What are you, an idiot?"" Chukcha:  ""Is it required?""",31,"[ 0.49637654 -0.3394823   0.1261198  ... -0.27767283 -0.00367982
+ -0.7721081 ]"
+59,60,What did the Buddhist say to the hot dog vendor? Make me one with everything.,15,"[-0.15930058 -0.9311221   0.23733777 ... -1.0257993   0.30530223
+  0.07575534]"
+63,64,What is the rallying cry of the International Dyslexic Pride movement? Dyslexics Untie!,13,"[ 0.19614217 -0.91309905 -0.28294316 ... -0.44775847 -0.25865597
+  0.25512576]"
+66,67,"Once upon a time, two brooms fell in love and decided to get married. Before the ceremony, the bride broom informed the groom broom that  she was expecting a little whiskbroom. The groom broom was aghast!  ""How is this possible?"" he asked. ""We've never swept together!",46,"[ 0.627501   -0.8340256  -0.06039624 ... -0.33555344  0.7921313
+  0.31038707]"
+69,70,"Employer to applicant: ""In this job we need someone who is responsible.""  Applicant: ""I'm the one you want. On my last job, every time anything went wrong, they said I was responsible.""",32,"[ 0.05405227 -0.15323351 -0.13022362 ... -0.87912655  0.03589624
+  0.20681767]"
+70,71,"At a recent Sacramento PC Users Group meeting, a company was demonstrating its latest speech- recognition software.   A representative from the company was just about ready to start the demonstration and asked everyone in the room to quiet down.  Just then someone in the back of the room yelled, ""Format C: Return.""  Someone else chimed in: ""Yes, Return""  Unfortunately, the software worked.",62,"[ 0.27342474 -0.8988548   0.55783314 ...  0.1056258  -0.11997622
+ -0.3443088 ]"
+71,72,"On the first day of college, the Dean addressed the students, pointing out some of the rules:  ""The female dormitory will be out-of-bounds for all male students and the male dormitory to the female students. Anybody caught breaking this rule will be finded $20 the first time."" He continued, ""Anybody  caught breaking this rule the second time will be fined $60. Being caught a third time will cost you a fine of $180. Are there any questions ?""  At this point, a male student in the crowd inquired: ""How much for a season pass ?""",95,"[ 0.2997466   0.378846   -0.15971746 ...  0.22158217  0.21995233
+  0.82905763]"
+72,73,"Q: What is the difference between George  Washington, Richard Nixon, and Bill Clinton?  A: Washington couldn't tell a lie, Nixon couldn't   tell the truth, and Clinton doesn't know the difference.",30,"[ 0.122541   -0.2869686   0.6697054  ...  0.8950502  -0.24673201
+ -1.044812  ]"
+73,74,"Q: How many stalkers does it take to change a light bulb?  A: Two. One to replace the bulb, and the other to watch it day and night.",28,"[ 0.15367757 -0.46373785 -0.09892623 ...  0.49170884 -0.22541322
+  0.57685626]"
+74,75,Q: Do you know the difference between an intelligent male and the Sasquatch?  A: There have been actual reported sightings of the Sasquatch.,23,"[ 0.97464037 -0.3030627  -0.5417361  ...  0.3239005   0.19953525
+ -0.40371585]"
+76,77,If pro- is the opposite of con- then congress must be the opposite of progress.,15,"[ 0.421053   -0.06326155  1.5022619  ... -0.36289352 -0.20733304
+ -1.3014605 ]"
+77,78,Q: What's the difference between the government  and  the Mafia?  A: One of them is organized.,16,"[ 0.2985604  -0.6060197   0.13613091 ...  0.9524937  -0.63479507
+ -0.28822747]"
+78,79,"Q: Ever wonder why the IRS calls it Form 1040?  A: Because for every $50 that you earn, you get 10 and they get 40.",25,"[ 0.45227885 -0.08931256  0.39321718 ... -0.23280509  0.11609428
+  0.0405242 ]"
+79,80,"Hillary, Bill Clinton and the Pope are sitting together on an airplane.  Bill says ""I could throw one thousand dollar bill out of this plane and make one person very happy.""  Hillary says ""I could throw 10 hundred dollar bills out of the plane and make 10 people very happy.""  The Pope chips in and says ""I could throw Bill out of the airplane and make the whole  country happy.""",70,"[ 0.7834151  -0.63147926  0.37397122 ...  0.24362738  0.22875954
+ -0.27117977]"
+80,81,"An Asian man goes into a New York CityBank to exchange 10,000 yen for American Currency.  The teller gives him $72.00.  The next month the Asian man goes into the same bank with 10,000 yen and receives $62.00. He asks, ""How come? Only $62.00?"" The teller says ""Fluctuations- Fluctuations!""  Whereupon the Asian man looks back at the teller and says ""Fluk you Amelicans too!""",64,"[ 0.11207242 -0.0501614   0.25906786 ... -0.7283101  -0.03506294
+ -0.42465472]"
+81,82,"Q: How do you keep a computer programmer in the  shower all day long?  A: Give them a shampoo with a label that says ""rinse, lather, repeat"".",27,"[-0.4121181  -0.71221966  0.12684736 ...  0.0488229  -0.3583178
+  0.40564704]"
+82,83,"What a woman says:  ""This place is a mess!  C'mon, You and I need to clean up, Your stuff is lying on the floor and you'll have no clothes to wear, if we don't do laundry right now!""  What a man hears:  blah, blah, blah, blah, C'mon blah, blah, blah, blah, you and I blah, blah, blah, blah, on the floor blah, blah, blah, blah, no clothes blah, blah, blah, blah, RIGHT NOW!",73,"[-0.47664773 -0.04648977  0.42642903 ... -0.9866863   0.07019072
+ -0.25660333]"
+83,84,"Q: What is the difference between Mechanical Engineers and Civil  Engineers?   A: Mechanical Engineers build weapons, Civil Engineers build targets.",20,"[-0.48943657 -0.55824447  0.18010949 ...  0.23037349  0.1291083
+ -1.1762445 ]"
+84,85,Q: How many Presidents does it take to screw in a light bulb?  A: It depends upon your definition of screwing a light bulb.,24,"[ 0.71672684 -0.8125267   0.03314178 ... -0.27364895 -0.47630295
+ -0.7729833 ]"
+85,86,"A neutron walks into a bar and orders a drink. ""How much do I owe you?"" the neutron asks.  The bartender replies, ""for you, no charge.""",26,"[ 0.08328008 -0.6737985   0.20840573 ... -0.2743295   0.38024884
+  0.3299478 ]"
+86,87,"A man, recently completing a routine physical examination receives a phone call from his doctor.  The doctor says, ""I have some good news and some bad news.""  The man says, ""OK, give me the good news first.""  The doctor says, ""The good news is, you have 24 hours to live.""  The man replies, ""Shit!  That's the good news?  Then what's the bad news?""  The doctor says, ""The bad news is, I forgot to call you yesterday.""",76,"[ 0.6398106  -0.22359928  0.06238944 ... -0.68224823  0.34856182
+ -0.22546165]"
+87,88,"A Czechoslovakian man felt his eyesight was growing steadily worse, and  felt it was time to go see an optometrist.   The doctor started with some simple testing, and showed him a standard eye  chart with letters of diminishing size: CRKBNWXSKZY. . .   ""Can you read this?"" the doctor asked.   ""Read it?"" the Czech answered. ""Doc, I know him!""",58,[ 0.7217022 -0.8847833  0.5542188 ... -0.4332398  0.0420265 -0.2577408]
+89,90,Q: How many programmers does it take to change a lightbulb?  A: NONE!   That's a hardware problem....,17,"[-0.10434948 -1.0382087  -0.22654785 ...  0.29866907 -0.20357467
+ -0.75469273]"
+91,92,"Early one morning a mother went to her sleeping son and woke him up.  ""Wake up, son.  It's time to go to school.""  ""But why, Mama?  I don't want to go to school.""  ""Give me two reasons why you don't want to go to school.""  ""One, all the children hate me. Two, all the teachers hate me,""  ""Oh! that's no reason. Come on, you have to go to school,""   ""Give me two good reasons WHY I should go to school?""    ""One, you are fifty-two years old. Two, you are the principal of the  school.""",94,"[ 0.04294298  0.26557064 -0.7482088  ... -0.41702855  0.158668
+ -0.07478578]"
+93,94,"Two atoms are walking down the street when one  atom says to the other  ""Oh, my! I've lost an electron!""  The second atom says""Are you sure""  The first replies ""I'm positive!""",31,"[ 0.08173265 -0.60152376 -0.81158733 ... -0.2769257   0.6354222
+ -0.54169255]"
+94,95,"Just a thought ..  Before criticizing someone, walk a mile in their shoes.    Then when you do criticize them,  you will be a mile away and have their shoes !",30,"[-0.11915194  0.33570242 -0.38272074 ... -0.09540346 -0.38132122
+  0.17524445]"
+95,96,"Two attorneys went into a diner and ordered two drinks.  Then they produced  sandwiches from their briefcases and started to eat.  The owner became quite concerned and marched over and told them, ""You can't eat your own sandwiches in here!""  The attorneys looked at each other, shrugged their shoulders and then exchanged sandwiches.",53,"[-0.135701   -1.2680429   0.252288   ... -0.3651035   0.6937121
+  0.48249158]"
+96,97,"A teacher is explaining to her class how different languages use  negatives differently.  She says, ""In all languages, a positive followed by a negative or a negative followed by a positive makes a negative.  In some languages, two negatives together make a positive, while in others they make a negative.  But in no language do two positives make a negative.""    One of the students puts up his hand and says, ""Yeah, right.""",72,"[-0.225599   -0.6588007  -0.7318573  ... -0.35806128  0.62293714
+ -0.13541162]"
+97,98,"Age and Womanhood  1. Between the ages of 13 and 18 ...     She is like Africa, virgin and unexplored.  2. Between the ages of 19 and 35 ...     She is like Asia, hot and exotic.  3. Between the ages of 36 and 45 ...     She is like America, fully explored, breathtakingly beautiful,and free with her resources.  4. Between the ages of 46 and 56 ...     She is like Europe, exhausted but still has points of interest.  5. After 56 she is like Australia ...     Everybody knows it's down there, but who gives a damn?",94,"[ 0.38968122  0.06611168  0.36871955 ... -0.6264165   0.4550129
+  0.25797465]"
+98,99,A bus station is where a bus stops. A train station is where a train stops.  On my desk I have a work station...,24,"[-0.06892731 -1.1542617   1.0079207  ...  1.1021742   0.05201718
+  0.09668617]"
+99,100,Q: Whats the difference between greeting a Queen and greeting the President of the United  States?  A: You only have to get on one knee to greet the queen.,29,"[-0.1830641  -0.1696757   0.15773211 ... -0.12668666 -0.46907023
+ -0.19900328]"
+100,101,Did you hear about the Buddhist who refused Novocaine during a root canal? He wanted to transcend dental medication.,19,"[-0.23633823 -0.15195006 -0.25174382 ... -0.42686257 -0.15006016
+ -0.47650197]"
+101,102,"A man escaped jail by digging a hole from his jail cell to the outside world. When finally his work was done, he emerged in the middle of a preschool playground. ""I'm free, I'm free!"" he shouted. ""So what?"" said a little girl.""I'm four.""",44,"[-0.22821625 -0.34548527 -0.10930691 ... -0.3979685   0.6116303
+  0.15311672]"
+102,103,"Nurse: Doctor, Doctor, there's an invisible man in the waiting room! Doctor: Well, go in there and tell him that I can't see him!",24,"[-0.36546937 -1.0976503  -0.21807957 ... -0.14384581 -0.05281699
+ -0.99601394]"
+103,104,"As a pre-med student, I had to take a difficult class in physics. One day our professor was discussing a particularly complicated concept. A student rudely interrupted to ask, ""Why do we have to learn this stuff?"" ""To save lives."" The professor responded quickly and continued the lecture. A few minutes later, the same student spoke up again. ""So how does physics save lives?"" he persisted. ""It usually keeps the idiots like you out of medical school,"" replied the professor.",80,"[ 0.7607275  -0.5060081  -0.53343534 ... -0.26976728  0.518247
+  0.46969175]"
+106,107,"(A) The Japanese eat very little fat and suffer fewer heart attacks than the British or Americans. (B) On the other hand, the French eat a lot of fat and also suffer fewer heart attacks than the British or Americans. (C) The Chinese drink very little red wine and suffer fewer heart attacks than the British or Americans. (D) The Italians drink excessive amounts of red wine and also suffer fewer heart attacks than the British or Americans.(E) Conclusion: Eat and drink what you like. It's speaking English that kills you.",91,"[ 0.4285357  -0.2997351   0.28978118 ...  0.08398749  0.5153434
+ -0.8554304 ]"
+107,108,"A man approached a very beautiful woman in a large supermarket and asked, ""You know, I've lost my wife here in the supermarket. Can you talk to me for a couple of minutes?"" ""Why?"" ""Because every time I talk to a beautiful woman my wife appears out of nowhere.""",49,"[ 0.11411816 -0.36359072 -0.46279362 ... -0.445068    0.7436751
+  0.27262527]"
+108,109,"""Do you believe in life after death?"" the boss asked one of his employees.""Yes, sir,"" the new recruit replied. ""Well, then, that makes everything just fine..."" the boss went on. ""After you left early yesterday to go to your grandmother's funeral, she stopped in to see you.""",47,"[ 0.6804304   0.706809    0.57468885 ... -0.1480733   0.5689154
+  0.4452466 ]"
+109,110,"One day, a professor was giving a big test to his students. He handed out the tests and went back to his desk to wait. Once the test was over, the students all handed the tests back in.The professor noticed that one of the students had attached a $100 bill to his test with a note saying: ""A dollar per point."" The next class the professor handed the tests back out. This student got back his test...and $64 change!",79,"[-0.4448224  -0.58769065 -0.04754128 ...  0.25248462  0.46028325
+  0.58298707]"
+111,112,"When my three-year-old son opened the birthday gift from his grandmother, he discovered a water pistol. He squealed with delight and headed for the nearest sink. I was not so pleased. I turned to Mom and said, ""I'm surprised at you. Don't you remember how we used to drive you crazy with water guns?"" Mom smiled and then replied...""I remember.""",60,"[ 0.02694689 -0.07052989 -0.2985718  ...  0.32368883  0.63295776
+  0.1519221 ]"
+112,113,"The new employee stood before the paper shredder looking confused.""Need some help?"" a secretary asked. ""Yes,"" he replied. ""How does this thing work?"" ""Simple,"" she said, taking the fat report from his hand and feeding it into the shredder.""Thanks, but where do the copies come out?""",46,"[ 0.35135    -1.1770777   0.5067436  ... -0.51440465  0.11182878
+ -0.43950576]"
+116,117,"A man joins a big corporate empire as a trainee. On his very first day of work, he dials the pantry and shouts into the phone: ""Get me a coffee, quickly!"" The voice from the other side responds, ""You fool, you've dialed the wrong extension! Do you know who you're talking to, dumbo?"" ""No,"" replied the trainee.""It's the CEO of the company, you fool!"" The trainee shouts back, ""And do YOU know who YOU are talking to, you fool?!"" ""No."" replied the CEO indignantly. ""Good!"" replied the trainee, and puts down the phone.",93,"[ 0.6120202  -1.3382154   0.24766558 ... -0.06903555  0.0930455
+ -0.1669073 ]"
+117,118,"A man goes into a drug store and asks the pharmacist if he can give him something for the hiccups. The pharmacist promptly reaches out and slaps the man's face. ""What the heck did you do that for?!"" the man screams. ""Well, you don't have the hiccups anymore, do you?"" The man says, ""No I don't, you IDIOT...but my wife out in the car still does!""",66,"[ 0.21969044 -0.5202281   0.23643452 ... -0.7540248   0.3887421
+  0.42145395]"
+120,121,"A drunk staggers into a Catholic Church, enters a confessional booth, sits down, but says nothing. The Priest coughs a few times to get his attention but the drunk just sits there. Finally, the Priest pounds three times on the wall. The drunk mumbles, ""Ain't no use knockin, there's no paper on this side either.""",55,"[ 0.7998383  -0.9565447   0.9512208  ... -0.2456465  -0.15859497
+  0.36713594]"
+121,122,"An astronomer, a physicist and a mathematician (it is said) were holidaying in Scotland. Glancing from a train window, they observed a black sheep in the middle of a field.""How interesting,"" observed the astronomer, ""All Scottish sheep are black!"" To which the physicist responded, ""No, no! Some Scottish sheep are black!"" The mathematician gazed heavenward in supplication, and then intoned, ""In Scotland there exists at least one field, containing at least one sheep, at least one side of which is black.""",81,"[ 0.58151156 -0.5012995   0.13399006 ...  0.34816     0.8591185
+  0.05611154]"
+122,123,"When most people claim to be ""killing time"", it's only an expression. When Chuck Norris kills time, the minutes actually cease to exist.",23,"[ 0.57923186 -0.6883818   0.8261281  ... -0.1991716  -0.42540756
+ -0.481567  ]"
+123,124,"Person 1: Hey, wanna hear a great knock-knock joke? Person 2: Sure, What is it? Person 1: Okay, you start. Person 2: Knock-knock. Person 1: Who's there? Person 2: … Person 1: Hah!",33,"[-0.38193327  0.06931196 -0.25123978 ... -0.05573296 -0.04584247
+ -0.46469647]"
+125,126,"A Briton, a Frenchman and a Russian are viewing a painting of Adam and Eve frolicking in the Garden of Eden. ""Look at their reserve, their calm,"" muses the Brit. ""They must be British."" ""Nonsense,"" the Frenchman disagrees. ""They're naked, and so beautiful. Clearly, they are French."" ""No way! They have no clothes and no shelter,"" the Russian points out, ""They have only an apple to eat, and they are being told they live in a paradise. Obviously, they are Russian.""",81,"[ 0.62073165 -0.75794774  0.6418254  ... -0.4453821   0.56347007
+  0.5212094 ]"
+129,130,"An old man goes to the doctor for his yearly physical, his wife tagging along. When the doctor enters the examination room, he tells the old man, ""I need a urine sample, a stool sample and a sperm sample."" The old man, being hard of hearing, looks at his wife and yells: ""WHAT? What did he say? What's he want?"" His wife yells back, ""He needs your underwear.""",68,"[ 0.34714922 -0.35189065 -0.27943903 ... -0.663372    0.6268819
+  0.35112536]"
+130,131,"A guy had been feeling down for so long that he finally decided to seek the aid of a psychiatrist. He went there, lay on the couch, spilled his guts then waited for the profound wisdom of the psychiatrist to make him feel better.The psychiatrist asked me a few questions, took some notes then sat thinking in silence for a few minutes with a puzzled look on his face. He looked up with an expression of delight and said, ""I think your problem is low self-esteem. It is very common among losers.""",92,"[ 0.19334537 -0.9024865   0.6539548  ... -0.7546788   0.27410427
+  0.32579204]"
+131,132,"Mickey Mouse is having a nasty divorce with Minnie Mouse. Mickey spoke to the judge about the separation.""I'm sorry Mickey, but I can't legally separate you two on the grounds that Minnie is mentally insane..."" Mickey replied, ""I didn't say she was mentally insane, I said that she's fucking Goofy!""",50,"[ 0.56384677 -0.4046892   0.09404138 ...  0.16831714  0.16224499
+  0.59191144]"
+132,133,"The new employee stood before the paper shredder looking confused. ""Need some help?"" a secretary, walking by, asked. ""Yes,"" he replied, ""how does this thing work?"" ""Simple,"" she said, taking the fat report from his hand and feeding it into the shredder.""Thanks, but where do the copies come out?""",49,"[ 0.34059557 -1.1042575   0.43783227 ... -0.5437854   0.00591825
+ -0.3742889 ]"
+133,134,"An artist asked the gallery owner if there had been any interest in his paintings currently on display. ""I've got good news and bad news,"" the owner replied. ""The good news is that a gentleman inquired about your work and wondered if it would appreciate in value after your death. When I told him it would, he bought all fifteen of your paintings."" ""That's wonderful!"" the artist exclaimed. ""What's the bad news?"" With concern, the gallery owner replied: ""The guy was your doctor.""",83,"[ 0.6869009   0.05843604  0.6152652  ... -0.09513578  0.78825617
+ -0.39669365]"
+134,135,"A guy walked past a mental hospital and heard a moaning voice: ""13...13...13...13..."" The man looked over to the hospital and saw a hole in the wall. He looked through the hole and got poked in the eye. The moaning voice then groaned: ""14...14...14...14...""",44,"[ 0.76033664 -0.67025256 -0.28476214 ... -1.5351286  -0.18305053
+ -0.2695565 ]"
+135,136,"A man went to apply for a job. After filling out all of his applications, he waited anxiously for the outcome.The employer read all his applications and said, ""We have an opening for people like you."" ""Oh, great,"" he said. ""What is it?"" ""It's called the door!""",47,"[ 0.3094875  -0.32181987  0.34935382 ... -0.16403624 -0.19763233
+ -0.46309966]"
+136,137,"Deep within a forest, a little turtle began to climb a tree. After hours of effort, he reached the top, jumped into the air waving his front legs and crashed to the ground. After recovering, he slowly climbed the tree again, jumped, and fell to the ground. The turtle tried again and again, while a couple of birds sitting on a branch watched his sad efforts. Finally, the female bird turned to her mate. ""Dear,"" she chirped, ""I think it's time to tell him he's adopted.""",86,"[-0.08287401 -0.8537134  -0.53849137 ... -0.00585241  1.4540821
+ -0.65996724]"
+137,138,"WASHINGTON (Reuters) - A tragic fire on Monday destroyed the personal library of President George W. Bush. Both of his books have been lost. Presidential spokesman Ari Fleischer said the president was devastated, as he had not finished coloring the second one.",42,"[-0.19219771  0.16942233  0.63516504 ...  0.40550083  0.77104867
+ -0.5255213 ]"
+138,139,"In a Veteran's Day speech, President Bush vowed, We will finish the mission. Period. Afterwards, he was advised that he doesn't have to read the punctuation marks.",27,"[-0.04741697 -0.1241267   0.5769731  ...  0.4831229   0.19938362
+ -0.3443531 ]"
+139,140,Chuck Norris' calendar goes straight from March 31st to April 2nd; no one fools Chuck Norris.,16,"[-0.42654634 -0.9368061  -0.04044166 ... -0.5241903  -0.07778174
+  0.19818388]"
+140,141,Jack Bauer can get McDonald's breakfast after 10:30.,8,"[ 0.6719309   0.22614239  1.1857109  ... -0.62050164  0.19023642
+  0.4334639 ]"
+144,145,"A blonde, brunette, and a red head are all lined up to be shot to death by a firing squad. The brunette shouts, ""Tornado!"" and the riflemen turn around to see the tornado. It isn't there, and the brunette uses that time to escape. The red head yells, ""Lightning!"" and the riflemen again turn to see the disaster, yet there is no disaster and the red head escapes. The blonde yells, ""Fire!"" The riflemen do.",75,"[ 0.3426627  -0.94483304 -0.77456915 ... -0.4820102  -0.01706496
+ -0.18692657]"
+145,146,America: 8:00 - Welcome to work! 12:00 - Lunch break 17:00 - The work day is over Japan: 8:00 - Are you already at work? 12:00 - Continue your work 17:00 - The work day is over 20:00 - Please finish your work Romania: 8:00 - Has anyone come to work? 12:00 - Did someone start working? 16:00 - Is anyone at work?,63,"[ 0.01995929  0.3082204   0.462037   ... -0.08532941 -0.73300713
+  0.8722813 ]"
+148,149,"A little girl asked her father, ""Daddy? Do all fairy tales begin with 'Once Upon a Time'"" He replied, ""No, there is a whole series of fairy tales that begin with 'If elected I promise'""",35,"[ 0.9981108   0.17656802  0.26859415 ... -0.50149363  1.0847653
+ -0.17488721]"
+150,151,"Three vampires walk into a bar. ""What can I get ya?"" asks the bartender. ""Blood,"" orders the first vampire. ""Make it two,"" says the second. The bartender looks at the third. ""What about you, buddy?"" ""Plasma,"" says the vampire. ""Okay,"" replies the barman. ""Let me make sure I've got this straight. Two bloods and a blood light.""",57,"[ 0.23446497 -1.1494555   0.4305417  ... -0.4565226   0.56614256
+  0.11139911]"
+151,152,"A week after John bought a bull, he complained to his friend, ""All that bull does is eat grass. Won't even look at a cow."" ""Take him to the vet,"" his friend suggested. The next week, John is much happier. ""The vet gave him some pills, and the bull serviced all of my cows!"" he told his pal. ""Then he broke through the fence and bred with all my neighbor's cows! He's like a machine!"" ""What kind of pills were they?"" asked the friend.""I don't know, but they've got a peppermint taste.""",92,"[ 0.8774028  -0.61017305  0.38210735 ... -0.46163625  0.5604818
+  0.6607876 ]"
+152,153,Q: Why did the chicken cross the Mobius Strip?  A: To get to the same side.,16,"[ 0.7607553  -0.42949906  0.14088398 ...  0.57869154  0.22944409
+ -0.43704596]"
+153,154,"Poodle: ""My life is a mess. My owner is mean, my girlfriend is leaving me for a German shepherd, and I'm nervous as a cat."" Collie: ""Why don't you go see a psychiatrist?"" Poodle: ""I can't. I'm not allowed on the couch.""",42,"[ 0.25864694 -0.57899445  0.03985045 ... -0.3070972  -0.30437136
+ -0.45458427]"
+154,155,Did you hear that NASA has launched several cows into orbit? It was the herd shot around the world.,19,"[-0.3237895  -0.06638027  0.5627126  ... -0.35628754  1.0174112
+ -0.5946878 ]"
+155,156,"A bear walks into a bar and says,""I'd like a beer ……………. and some of those peanuts."" The bartender says, ""Sure, but why the big paws?""",26,"[ 0.66429716 -0.0380823   0.52982736 ... -0.3660446   0.02961879
+ -0.24718298]"
+156,157,"A dog goes into a bar and orders a martini. The bartender says, ""You don't see a dog in here drinking a martini very often."" The dog says, ""At these prices, I'm not surprised.""",34,"[ 0.01670955 -0.31249171  0.28866914 ... -0.03646239  0.09860633
+  0.32689083]"
+157,158,I'm reading a great book about antigravity -- I just can't put it down.,14,"[ 0.47695783  0.12303548  1.0949847  ... -0.18214007  0.7605184
+ -0.49481067]"
