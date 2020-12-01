@@ -17,17 +17,22 @@ class GMF(torch.nn.Module):
 
         self.affine_output = torch.nn.Linear(in_features=self.latent_dim, out_features=1)
         self.logistic = torch.nn.Sigmoid()
+        
+        self.logits = None
 
     def forward(self, user_indices, item_embeddings):
         user_embedding = self.embedding_user(user_indices)
         item_embedding = self.embedding_item(item_embeddings)
         element_product = torch.mul(user_embedding, item_embedding)
-        logits = self.affine_output(element_product)
-        rating = self.logistic(logits)
+        self.logits = self.affine_output(element_product)
+        rating = self.logistic(self.logits)
         return rating
 
     def init_weight(self):
         pass
+
+    def _get_bottleneck(self):
+        return self.logits
 
 
 class GMFEngine(Engine):

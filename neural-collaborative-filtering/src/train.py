@@ -42,7 +42,7 @@ mlp_config = {'alias': 'mlp_factor8neg4_bz256_166432168_pretrain_reg_0.0000001',
               'use_cuda': False,
               'device_id': 7,
               'pretrain': True,
-              'pretrain_mf': 'checkpoints/{}'.format('gmf_factor8neg4_Epoch100_HR0.6391_NDCG0.2852.model'),
+              'pretrain_mf': 'checkpoints/{}'.format('gmf_factor8neg4-implict_Epoch47_HR1.0000_NDCG0.8431.model'),
               'model_dir':'checkpoints/{}_Epoch{}_HR{:.4f}_NDCG{:.4f}.model'}
 
 neumf_config = {'alias': 'pretrain_neumf_factor8neg4',
@@ -68,9 +68,9 @@ neumf_config = {'alias': 'pretrain_neumf_factor8neg4',
 # Load Data
 # ml1m_dir = 'data/ml-1m/ratings.dat'
 # ml1m_rating = pd.read_csv(ml1m_dir, sep='::', header=None, names=['uid', 'mid', 'rating', 'timestamp'],  engine='python')
-ratings_dir = '~/Desktop/IHCI_project/JESTER/ratings.dat'
+ratings_dir = '~/Desktop/Fairness_Aware_Recommendation_System/JESTER/ratings.dat'
 ratings = pd.read_pickle(ratings_dir)
-jokes_dir = '~/Desktop/IHCI_project/JESTER/jokeset_df.pkl'
+jokes_dir = '~/Desktop/Fairness_Aware_Recommendation_System/JESTER/jokeset_df.pkl'
 jokes = pd.read_pickle(jokes_dir)
 # Reindex
 # user_id = ml1m_rating[['uid']].drop_duplicates().reindex()
@@ -86,10 +86,10 @@ print('Range of itemId is [{}, {}]'.format(ratings.itemId.min(), ratings.itemId.
 sample_generator = SampleGenerator(ratings=ratings, jokes=jokes)
 evaluate_data = sample_generator.evaluate_data
 # Specify the exact model
-config = gmf_config
-engine = GMFEngine(config)
-# config = mlp_config
-# engine = MLPEngine(config)
+# config = gmf_config
+# engine = GMFEngine(config)
+config = mlp_config
+engine = MLPEngine(config)
 # config = neumf_config
 # engine = NeuMFEngine(config)
 for epoch in range(config['num_epoch']):

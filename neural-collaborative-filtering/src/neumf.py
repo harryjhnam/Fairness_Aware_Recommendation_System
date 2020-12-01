@@ -11,13 +11,16 @@ class NeuMF(torch.nn.Module):
         self.config = config
         self.num_users = config['num_users']
         self.num_items = config['num_items']
+        self.bert_dim = config['bert_dim']
         self.latent_dim_mf = config['latent_dim_mf']
         self.latent_dim_mlp = config['latent_dim_mlp']
 
         self.embedding_user_mlp = torch.nn.Embedding(num_embeddings=self.num_users, embedding_dim=self.latent_dim_mlp)
-        self.embedding_item_mlp = torch.nn.Embedding(num_embeddings=self.num_items, embedding_dim=self.latent_dim_mlp)
+        # self.embedding_item_mlp = torch.nn.Embedding(num_embeddings=self.num_items, embedding_dim=self.latent_dim_mlp)
+        self.embedding_item_mlp = torch.nn.Linear(self.bert_dim, self.latent_dim_mlp)
         self.embedding_user_mf = torch.nn.Embedding(num_embeddings=self.num_users, embedding_dim=self.latent_dim_mf)
-        self.embedding_item_mf = torch.nn.Embedding(num_embeddings=self.num_items, embedding_dim=self.latent_dim_mf)
+        #self.embedding_item_mf = torch.nn.Embedding(num_embeddings=self.num_items, embedding_dim=self.latent_dim_mf)
+        self.embedding_item_mf = torch.nn.Linear(self.bert_dim, self.latent_dim_mf)
 
         self.fc_layers = torch.nn.ModuleList()
         for idx, (in_size, out_size) in enumerate(zip(config['layers'][:-1], config['layers'][1:])):
@@ -25,6 +28,8 @@ class NeuMF(torch.nn.Module):
 
         self.affine_output = torch.nn.Linear(in_features=config['layers'][-1] + config['latent_dim_mf'], out_features=1)
         self.logistic = torch.nn.Sigmoid()
+
+        self.bottleneck = None
 
     def forward(self, user_indices, item_indices):
         user_embedding_mlp = self.embedding_user_mlp(user_indices)
@@ -38,6 +43,8 @@ class NeuMF(torch.nn.Module):
         for idx, _ in enumerate(range(len(self.fc_layers))):
             mlp_vector = self.fc_layers[idx](mlp_vector)
             mlp_vector = torch.nn.ReLU()(mlp_vector)
+
+        self.bottleneck = mlp_vector
 
         vector = torch.cat([mlp_vector, mf_vector], dim=-1)
         logits = self.affine_output(vector)
@@ -72,6 +79,8 @@ class NeuMF(torch.nn.Module):
         self.affine_output.weight.data = 0.5 * torch.cat([mlp_model.affine_output.weight.data, gmf_model.affine_output.weight.data], dim=-1)
         self.affine_output.bias.data = 0.5 * (mlp_model.affine_output.bias.data + gmf_model.affine_output.bias.data)
 
+    def _get_bottleneck(self):
+        return self.bottleneck
 
 class NeuMFEngine(Engine):
     """Engine for training & evaluating GMF model"""
