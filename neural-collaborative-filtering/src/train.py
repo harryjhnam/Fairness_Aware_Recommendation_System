@@ -52,16 +52,17 @@ neumf_config = {'alias': 'pretrain_neumf_factor8neg4',
                 'adam_lr': 1e-3,
                 'num_users': 7700,
                 'num_items': 158,
+                'bert_dim': 1024,
                 'latent_dim_mf': 8,
                 'latent_dim_mlp': 8,
                 'num_negative': 4,
-                'layers': [16,32,16,8],  # layers[0] is the concat of latent user vector & latent item vector
+                'layers': [16,64,32,16,8],  # layers[0] is the concat of latent user vector & latent item vector
                 'l2_regularization': 0.01,
                 'use_cuda': False,
                 'device_id': 7,
                 'pretrain': True,
-                'pretrain_mf': 'checkpoints/{}'.format('gmf_factor8neg4_Epoch100_HR0.6391_NDCG0.2852.model'),
-                'pretrain_mlp': 'checkpoints/{}'.format('mlp_factor8neg4_Epoch100_HR0.5606_NDCG0.2463.model'),
+                'pretrain_mf': 'checkpoints/{}'.format('gmf_factor8neg4-implict_Epoch47_HR1.0000_NDCG0.8431.model'),
+                'pretrain_mlp': 'checkpoints/{}'.format('mlp_factor8neg4_bz256_166432168_pretrain_reg_0.0000001_Epoch63_HR1.0000_NDCG0.8328.model'),
                 'model_dir':'checkpoints/{}_Epoch{}_HR{:.4f}_NDCG{:.4f}.model'
                 }
 
@@ -88,10 +89,10 @@ evaluate_data = sample_generator.evaluate_data
 # Specify the exact model
 # config = gmf_config
 # engine = GMFEngine(config)
-config = mlp_config
-engine = MLPEngine(config)
-# config = neumf_config
-# engine = NeuMFEngine(config)
+# config = mlp_config
+# engine = MLPEngine(config)
+config = neumf_config
+engine = NeuMFEngine(config)
 for epoch in range(config['num_epoch']):
     print('Epoch {} starts !'.format(epoch))
     print('-' * 80)
